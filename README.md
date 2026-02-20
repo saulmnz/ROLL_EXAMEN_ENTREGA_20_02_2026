@@ -209,6 +209,7 @@ public class CameraController : MonoBehaviour
 >***SOBRE UN EMPTY OBJECT AÑADIMOS EL SCRIPT DE `GameManager`...***
 <img width="700" height="500" alt="image" src="https://github.com/user-attachments/assets/7059a5d2-8853-43a9-b165-4841ae8e1fb1" />
 
+---
 
 - ***SOBRE EL TEXTO SCORE: LE MODIFICO LA POSICIÓN (TOP-LEFT), EL CONTENIDO DEL TEXTO, EL ESTILO DE LETRA, TAMAÑO...***
 
